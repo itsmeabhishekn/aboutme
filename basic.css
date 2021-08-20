@@ -1,0 +1,41 @@
+div{
+  border: 2px solid blue;
+  border-style: dotted;
+  padding-top: .5cm;
+  padding-bottom: .5cm;
+  padding-left: .5cm;
+  padding-right: .5cm;
+}
+img{
+  height:150px;
+  width:160px;
+}
+
+ body{
+  background-color:rgb(0, 0, 0);
+}
+
+#left{
+  text-align: left;
+}
+
+#center{
+  text-align: center;
+}
+
+#right{
+  text-align: right;
+}
+
+p{
+  text-align: justify;
+  color: burlywood;
+  font-size:x-large;
+}
+
+table{
+  color: rgb(76, 150, 104);
+  width: 100%;
+  font-size:medium;
+  border: medium;
+}
