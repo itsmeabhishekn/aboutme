@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora&family=Marck+Script&family=Rye&display=swap");
+
+:root {
+  --fg-color: #ffffff;
+  --bg-color: #000;
+  --color00: #e1578a;
+  --color01: #ff69eb;
+  --color02: #ff86c8;
+  --color03: #ffa3a5;
+  --color04: #ffbf81;
+  --color05: #ffdc5e;
+  --color06: #fdff8f;
+}
+
+* {
+  padding: 12px;
+}
+
+div {
+  /*  border: 0.5px solid blue;
+  border-style: dotted; */
+  padding-top: 0.5cm;
+  padding-bottom: 0.5cm;
+  padding-left: 0.5cm;
+  padding-right: 0.5cm;
+}
+img {
+  height: 150px;
+  width: 160px;
+}
+
+body {
+  font-size: x-large;
+  color: antiquewhite;
+  padding: 25px 60px 25px 60px;
+  background-image: url(https://cdn.lowgif.com/medium/0a1db283b4740c54-dark-grunge-gif-find-share-on-giphy.gif);
+}
+
+#center {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+  color: rgb(166, 172, 118);
+  font-size: normal;
+}
+
+table {
+  color: rgb(119, 204, 151);
+  width: 100%;
+  font-size: medium;
+  border: medium;
+}
+
+h2 {
+  align: left;
+  color: var(--color06);
+  font-family: "Chonburi", cursive;
+}
+
+h1,
+h3 {
+  align: left;
+  color: #ffbf81;
+  font-family: "Chonburi", cursive;
+}
+
+/* h3 {
+  align: center;
+  color: rgb(175, 177, 96);
+  font-family: Arial, Helvetica, sans-serif;
+} */
+
+span {
+  color: purple;
+}
