@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+/* @import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 
 * {
   margin: 0;
@@ -7,12 +9,13 @@
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 72.5%;
   box-sizing: border-box;
 }
 
 body {
-  font-family: 'Press Start 2P', sans-serif;
+  font-family: 'Permanent Marker', cursive;
+  /* font-family: 'Press Start 2P', sans-serif; */
   color: #eee;
   background-color: #222;
   /* background-color: #60b347; */
